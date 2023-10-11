@@ -4,5 +4,5 @@ def main():
     valor = float(input())
     if valor > 0:
         valores_positivos += 1
-  print(valores_positivos, "valores positivos.")
+    print(valores_positivos, "valores positivos")
 main()  
